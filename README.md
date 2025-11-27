@@ -23,4 +23,16 @@ print("Hello, Python World!")
 # การคำนวณพื้นฐาน
 result = 10 + 5
 print(result)
+# สร้างเวกเตอร์ของตัวเลข
+my_data <- c(15, 25, 30, 45, 50)
 
+# คำนวณค่าเฉลี่ยของข้อมูล
+mean_value <- mean(my_data)
+print(mean_value)
+// โครงสร้างหลักที่ต้องมี Class และ main method
+public class Greeting {
+    public static void main(String[] args) {
+        // คำสั่งแสดงผลต้องใช้ System.out.println และจบด้วย semicolon
+        System.out.println("Hello, Java Enterprise!"); 
+    }
+}
